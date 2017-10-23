@@ -1,6 +1,6 @@
 *.pyc
 *~
-__pycache__
+__pycatch__
 girls
 db.sqlite3
 /static
